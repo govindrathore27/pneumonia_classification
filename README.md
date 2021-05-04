@@ -1,4 +1,4 @@
-# Project Name : Transfer_learning_pneumonia
+# Project Name : Pneumonia Classification using transfer learning
 
 
 ![](https://i.imgur.com/jZqpV51.png)
